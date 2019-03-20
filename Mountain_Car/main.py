@@ -6,8 +6,8 @@ import random
 import math
 
 MAX_EPSILON = 1
-MIN_EPSILON = 0.01
-LAMBDA = 0.0001
+MIN_EPSILON = 0.01 
+LAMBDA = 0.0001 * 0.5
 GAMMA = 0.99
 BATCH_SIZE = 50
 
@@ -113,12 +113,12 @@ class GameRunner:
 			next_state, reward, done, info = self._env.step(action)
 
 			#Change of rewards
-			# if next_state[0] >= 0.1:
-			# 	reward += 10
-			# elif next_state[0] >= 0.25:
-			# 	reward += 20
-			# elif next_state[0] >= 0.5:
-			# 	reward += 100
+			if next_state[0] >= 0.1:
+				reward += 10
+			elif next_state[0] >= 0.25:
+				reward += 20
+			elif next_state[0] >= 0.5:
+				reward += 100
 
 			if next_state[0] > max_x:
 				max_x = next_state[0]
@@ -130,7 +130,12 @@ class GameRunner:
 			self._replay()
 
 			self._steps += 1
-			self._eps = MIN_EPSILON + (MAX_EPSILON - MIN_EPSILON) * math.exp(-LAMBDA * self._steps) 	#decay the eps value
+
+			if self._eps <= MIN_EPSILON:
+				self._eps = MIN_EPSILON
+			else:
+				self._eps = MIN_EPSILON + (MAX_EPSILON - MIN_EPSILON) * (1 - LAMBDA * self._steps)
+			#self._eps = MIN_EPSILON + (MAX_EPSILON - MIN_EPSILON) * math.exp(-LAMBDA * self._steps) 	#decay the eps value
 
 			state = next_state
 			tot_reward += reward 			#calculate total reward in the episode
@@ -160,7 +165,7 @@ class GameRunner:
 
 		x = np.zeros((len(batch), self._model.num_states))		
 		y = np.zeros((len(batch), self._model.num_actions))
-		for i, b in enumerate(batch):
+		for i, b in enumerate(batch):			#Extract x(state) and y(Q(s, a)) from batch for training
 			state, action, reward, next_state = b[0], b[1], b[2], b[3]
 			current_q = q_s_a[i]
 			if next_state is None:
@@ -169,7 +174,7 @@ class GameRunner:
 				current_q[action] = reward + GAMMA * np.amax(q_s_a_d[i])
 				x[i] = state
 				y[i] = current_q
-			self._model.train_batch(self._sess, x, y) 
+		self._model.train_batch(self._sess, x, y) 
 
 	@property
 	def reward_store(self):
