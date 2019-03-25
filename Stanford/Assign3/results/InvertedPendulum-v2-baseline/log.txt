@@ -1,0 +1,34 @@
+2019-03-25 10:48:47,618:WARNING: From pg.py:205: MultivariateNormalDiag.__init__ (from tensorflow.contrib.distributions.python.ops.mvn_diag) is deprecated and will be removed after 2018-10-01.
+Instructions for updating:
+The TensorFlow Distributions library has moved to TensorFlow Probability (https://github.com/tensorflow/probability). You should update all references to use `tfp.distributions` instead of `tf.contrib.distributions`.
+2019-03-25 10:48:47,662:WARNING: From /home/yash/venv/lib/python3.6/site-packages/tensorflow/contrib/distributions/python/ops/mvn_diag.py:224: MultivariateNormalLinearOperator.__init__ (from tensorflow.contrib.distributions.python.ops.mvn_linear_operator) is deprecated and will be removed after 2018-10-01.
+Instructions for updating:
+The TensorFlow Distributions library has moved to TensorFlow Probability (https://github.com/tensorflow/probability). You should update all references to use `tfp.distributions` instead of `tf.contrib.distributions`.
+2019-03-25 10:48:47,679:WARNING: From /home/yash/venv/lib/python3.6/site-packages/tensorflow/contrib/distributions/python/ops/mvn_linear_operator.py:201: AffineLinearOperator.__init__ (from tensorflow.contrib.distributions.python.ops.bijectors.affine_linear_operator) is deprecated and will be removed after 2018-10-01.
+Instructions for updating:
+The TensorFlow Distributions library has moved to TensorFlow Probability (https://github.com/tensorflow/probability). You should update all references to use `tfp.distributions` instead of `tf.contrib.distributions`.
+2019-03-25 10:48:47,686:WARNING: From /home/yash/venv/lib/python3.6/site-packages/tensorflow/contrib/distributions/python/ops/bijectors/affine_linear_operator.py:158: _DistributionShape.__init__ (from tensorflow.contrib.distributions.python.ops.shape) is deprecated and will be removed after 2018-10-01.
+Instructions for updating:
+The TensorFlow Distributions library has moved to TensorFlow Probability (https://github.com/tensorflow/probability). You should update all references to use `tfp.distributions` instead of `tf.contrib.distributions`.
+2019-03-25 10:48:48,810:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:48:48,811:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:48:48,812:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:48:48,813:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:48:49,466:INFO: Average reward: 11.00 +/- 0.00
+2019-03-25 10:54:01,668:WARNING: From pg.py:205: MultivariateNormalDiag.__init__ (from tensorflow.contrib.distributions.python.ops.mvn_diag) is deprecated and will be removed after 2018-10-01.
+Instructions for updating:
+The TensorFlow Distributions library has moved to TensorFlow Probability (https://github.com/tensorflow/probability). You should update all references to use `tfp.distributions` instead of `tf.contrib.distributions`.
+2019-03-25 10:54:01,707:WARNING: From /home/yash/venv/lib/python3.6/site-packages/tensorflow/contrib/distributions/python/ops/mvn_diag.py:224: MultivariateNormalLinearOperator.__init__ (from tensorflow.contrib.distributions.python.ops.mvn_linear_operator) is deprecated and will be removed after 2018-10-01.
+Instructions for updating:
+The TensorFlow Distributions library has moved to TensorFlow Probability (https://github.com/tensorflow/probability). You should update all references to use `tfp.distributions` instead of `tf.contrib.distributions`.
+2019-03-25 10:54:01,714:WARNING: From /home/yash/venv/lib/python3.6/site-packages/tensorflow/contrib/distributions/python/ops/mvn_linear_operator.py:201: AffineLinearOperator.__init__ (from tensorflow.contrib.distributions.python.ops.bijectors.affine_linear_operator) is deprecated and will be removed after 2018-10-01.
+Instructions for updating:
+The TensorFlow Distributions library has moved to TensorFlow Probability (https://github.com/tensorflow/probability). You should update all references to use `tfp.distributions` instead of `tf.contrib.distributions`.
+2019-03-25 10:54:01,715:WARNING: From /home/yash/venv/lib/python3.6/site-packages/tensorflow/contrib/distributions/python/ops/bijectors/affine_linear_operator.py:158: _DistributionShape.__init__ (from tensorflow.contrib.distributions.python.ops.shape) is deprecated and will be removed after 2018-10-01.
+Instructions for updating:
+The TensorFlow Distributions library has moved to TensorFlow Probability (https://github.com/tensorflow/probability). You should update all references to use `tfp.distributions` instead of `tf.contrib.distributions`.
+2019-03-25 10:54:02,747:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:54:02,748:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:54:02,749:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:54:02,750:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:54:03,204:INFO: Average reward: 5.00 +/- 0.00

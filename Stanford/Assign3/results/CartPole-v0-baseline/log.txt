@@ -1,0 +1,589 @@
+2019-03-25 09:54:01,474:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 09:54:01,478:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 09:54:01,482:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 09:54:01,485:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 09:54:02,500:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 09:54:02,553:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 09:56:01,021:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 09:56:01,022:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 09:56:01,023:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 09:56:01,024:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 09:56:01,154:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 09:56:01,172:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 09:59:30,853:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 09:59:30,855:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 09:59:30,855:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 09:59:30,856:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 09:59:30,990:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 09:59:31,008:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:07:56,648:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:07:56,649:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:07:56,650:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:07:56,651:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:07:56,777:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:07:56,794:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:08:18,217:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:08:18,218:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:08:18,219:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:08:18,220:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:08:18,351:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:08:18,368:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:09:02,299:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:09:02,300:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:09:02,301:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:09:02,302:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:09:02,429:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:09:02,445:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:09:03,398:INFO: Average reward: 16.00 +/- 0.00
+2019-03-25 10:15:00,196:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:15:00,198:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:15:00,199:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:15:00,200:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:15:00,328:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:15:00,345:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:15:01,491:INFO: Average reward: 27.00 +/- 0.00
+2019-03-25 10:16:27,433:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:16:27,435:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:16:27,436:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:16:27,436:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:16:27,572:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:16:27,592:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:16:28,473:INFO: Average reward: 12.00 +/- 0.00
+2019-03-25 10:16:50,409:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:16:50,410:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:16:50,411:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:16:50,412:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:16:50,559:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:16:50,577:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:16:51,421:INFO: Average reward: 9.00 +/- 0.00
+2019-03-25 10:18:29,466:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:18:29,467:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:18:29,468:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:18:29,469:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:18:29,598:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:18:29,615:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:18:30,502:INFO: Average reward: 12.00 +/- 0.00
+2019-03-25 10:20:24,961:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:20:24,962:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:20:24,963:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:20:24,964:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:20:25,100:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:20:25,118:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:20:26,217:INFO: Average reward: 25.00 +/- 0.00
+2019-03-25 10:20:27,146:INFO: Average reward: 21.72 +/- 2.13
+2019-03-25 10:20:27,571:INFO: Average reward: 16.83 +/- 1.06
+2019-03-25 10:20:27,992:INFO: Average reward: 13.96 +/- 0.61
+2019-03-25 10:20:28,395:INFO: Average reward: 12.53 +/- 0.53
+2019-03-25 10:20:28,807:INFO: Average reward: 11.03 +/- 0.28
+2019-03-25 10:20:29,228:INFO: Average reward: 10.97 +/- 0.33
+2019-03-25 10:20:29,639:INFO: Average reward: 10.33 +/- 0.21
+2019-03-25 10:20:30,055:INFO: Average reward: 10.29 +/- 0.21
+2019-03-25 10:20:30,465:INFO: Average reward: 10.10 +/- 0.18
+2019-03-25 10:20:30,878:INFO: Average reward: 9.86 +/- 0.14
+2019-03-25 10:20:31,289:INFO: Average reward: 9.54 +/- 0.12
+2019-03-25 10:20:31,718:INFO: Average reward: 9.66 +/- 0.13
+2019-03-25 10:20:32,145:INFO: Average reward: 9.53 +/- 0.09
+2019-03-25 10:20:32,551:INFO: Average reward: 9.48 +/- 0.08
+2019-03-25 10:20:32,973:INFO: Average reward: 9.49 +/- 0.11
+2019-03-25 10:20:33,388:INFO: Average reward: 9.41 +/- 0.10
+2019-03-25 10:20:33,799:INFO: Average reward: 9.51 +/- 0.10
+2019-03-25 10:20:34,213:INFO: Average reward: 9.35 +/- 0.08
+2019-03-25 10:20:34,628:INFO: Average reward: 9.28 +/- 0.09
+2019-03-25 10:20:35,037:INFO: Average reward: 9.39 +/- 0.08
+2019-03-25 10:20:35,450:INFO: Average reward: 9.55 +/- 0.08
+2019-03-25 10:20:35,867:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:20:36,288:INFO: Average reward: 9.43 +/- 0.06
+2019-03-25 10:20:36,703:INFO: Average reward: 9.30 +/- 0.07
+2019-03-25 10:20:37,113:INFO: Average reward: 9.48 +/- 0.09
+2019-03-25 10:20:37,517:INFO: Average reward: 9.43 +/- 0.08
+2019-03-25 10:20:37,935:INFO: Average reward: 9.19 +/- 0.08
+2019-03-25 10:20:38,349:INFO: Average reward: 9.50 +/- 0.08
+2019-03-25 10:20:38,762:INFO: Average reward: 9.24 +/- 0.07
+2019-03-25 10:20:39,174:INFO: Average reward: 9.32 +/- 0.07
+2019-03-25 10:20:39,574:INFO: Average reward: 9.39 +/- 0.08
+2019-03-25 10:20:39,994:INFO: Average reward: 9.36 +/- 0.07
+2019-03-25 10:20:40,398:INFO: Average reward: 9.55 +/- 0.09
+2019-03-25 10:20:40,820:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:20:41,235:INFO: Average reward: 9.35 +/- 0.08
+2019-03-25 10:20:41,646:INFO: Average reward: 9.29 +/- 0.08
+2019-03-25 10:20:42,067:INFO: Average reward: 9.29 +/- 0.06
+2019-03-25 10:20:42,490:INFO: Average reward: 9.51 +/- 0.08
+2019-03-25 10:20:42,906:INFO: Average reward: 9.33 +/- 0.07
+2019-03-25 10:20:43,315:INFO: Average reward: 9.57 +/- 0.08
+2019-03-25 10:20:43,730:INFO: Average reward: 9.41 +/- 0.08
+2019-03-25 10:20:44,155:INFO: Average reward: 9.42 +/- 0.07
+2019-03-25 10:20:44,567:INFO: Average reward: 9.41 +/- 0.07
+2019-03-25 10:20:44,971:INFO: Average reward: 9.43 +/- 0.07
+2019-03-25 10:20:45,383:INFO: Average reward: 9.48 +/- 0.07
+2019-03-25 10:20:45,796:INFO: Average reward: 9.33 +/- 0.07
+2019-03-25 10:20:46,211:INFO: Average reward: 9.22 +/- 0.07
+2019-03-25 10:20:46,622:INFO: Average reward: 9.34 +/- 0.08
+2019-03-25 10:20:47,039:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:20:47,455:INFO: Average reward: 9.40 +/- 0.07
+2019-03-25 10:20:47,868:INFO: Average reward: 9.41 +/- 0.08
+2019-03-25 10:20:48,278:INFO: Average reward: 9.18 +/- 0.07
+2019-03-25 10:20:48,692:INFO: Average reward: 9.49 +/- 0.07
+2019-03-25 10:20:49,110:INFO: Average reward: 9.31 +/- 0.07
+2019-03-25 10:20:49,528:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:20:49,948:INFO: Average reward: 9.27 +/- 0.07
+2019-03-25 10:20:50,399:INFO: Average reward: 9.25 +/- 0.08
+2019-03-25 10:20:50,838:INFO: Average reward: 9.37 +/- 0.08
+2019-03-25 10:20:51,286:INFO: Average reward: 9.37 +/- 0.08
+2019-03-25 10:20:51,714:INFO: Average reward: 9.50 +/- 0.08
+2019-03-25 10:20:52,182:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:20:52,685:INFO: Average reward: 9.30 +/- 0.07
+2019-03-25 10:20:53,122:INFO: Average reward: 9.48 +/- 0.08
+2019-03-25 10:20:53,573:INFO: Average reward: 9.38 +/- 0.07
+2019-03-25 10:20:53,996:INFO: Average reward: 9.52 +/- 0.07
+2019-03-25 10:20:54,431:INFO: Average reward: 9.22 +/- 0.09
+2019-03-25 10:20:54,858:INFO: Average reward: 9.32 +/- 0.07
+2019-03-25 10:20:55,303:INFO: Average reward: 9.37 +/- 0.07
+2019-03-25 10:20:55,740:INFO: Average reward: 9.49 +/- 0.07
+2019-03-25 10:20:56,159:INFO: Average reward: 9.39 +/- 0.08
+2019-03-25 10:20:56,567:INFO: Average reward: 9.41 +/- 0.07
+2019-03-25 10:20:56,991:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:20:57,399:INFO: Average reward: 9.38 +/- 0.07
+2019-03-25 10:20:57,804:INFO: Average reward: 9.49 +/- 0.07
+2019-03-25 10:20:58,220:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:20:58,638:INFO: Average reward: 9.25 +/- 0.07
+2019-03-25 10:20:59,049:INFO: Average reward: 9.49 +/- 0.07
+2019-03-25 10:20:59,460:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:20:59,878:INFO: Average reward: 9.37 +/- 0.07
+2019-03-25 10:21:00,317:INFO: Average reward: 9.34 +/- 0.07
+2019-03-25 10:21:00,730:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:21:01,143:INFO: Average reward: 9.32 +/- 0.08
+2019-03-25 10:21:01,536:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:21:01,960:INFO: Average reward: 9.27 +/- 0.07
+2019-03-25 10:21:02,377:INFO: Average reward: 9.20 +/- 0.07
+2019-03-25 10:21:02,792:INFO: Average reward: 9.34 +/- 0.07
+2019-03-25 10:21:03,208:INFO: Average reward: 9.52 +/- 0.07
+2019-03-25 10:21:03,613:INFO: Average reward: 9.38 +/- 0.08
+2019-03-25 10:21:04,032:INFO: Average reward: 9.25 +/- 0.08
+2019-03-25 10:21:04,424:INFO: Average reward: 9.31 +/- 0.08
+2019-03-25 10:21:04,832:INFO: Average reward: 9.42 +/- 0.07
+2019-03-25 10:21:05,255:INFO: Average reward: 9.31 +/- 0.07
+2019-03-25 10:21:05,673:INFO: Average reward: 9.31 +/- 0.06
+2019-03-25 10:21:06,088:INFO: Average reward: 9.44 +/- 0.07
+2019-03-25 10:21:06,489:INFO: Average reward: 9.26 +/- 0.07
+2019-03-25 10:21:06,900:INFO: Average reward: 9.48 +/- 0.07
+2019-03-25 10:21:07,309:INFO: Average reward: 9.30 +/- 0.07
+2019-03-25 10:21:07,714:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:21:08,122:INFO: Average reward: 9.33 +/- 0.07
+2019-03-25 10:21:08,520:INFO: Average reward: 9.50 +/- 0.08
+2019-03-25 10:21:08,521:INFO: - Training done.
+2019-03-25 10:21:08,622:DEBUG: update_title_pos
+2019-03-25 10:21:08,676:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/yash/venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-03-25 10:21:08,765:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/yash/venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-03-25 10:21:08,804:DEBUG: update_title_pos
+2019-03-25 10:21:09,116:INFO: Average reward: 8.00 +/- 0.00
+2019-03-25 10:23:51,543:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:23:51,545:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:23:51,545:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:23:51,546:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:23:51,676:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:23:51,694:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:23:52,579:INFO: Average reward: 11.00 +/- 0.00
+2019-03-25 10:23:53,101:INFO: Average reward: 18.20 +/- 1.07
+2019-03-25 10:23:53,514:INFO: Average reward: 17.52 +/- 1.20
+2019-03-25 10:23:53,921:INFO: Average reward: 14.93 +/- 0.82
+2019-03-25 10:23:54,340:INFO: Average reward: 13.24 +/- 0.51
+2019-03-25 10:23:54,756:INFO: Average reward: 11.39 +/- 0.28
+2019-03-25 10:23:55,165:INFO: Average reward: 10.92 +/- 0.24
+2019-03-25 10:23:55,580:INFO: Average reward: 10.41 +/- 0.23
+2019-03-25 10:23:55,988:INFO: Average reward: 9.90 +/- 0.16
+2019-03-25 10:23:56,413:INFO: Average reward: 10.10 +/- 0.17
+2019-03-25 10:23:56,826:INFO: Average reward: 9.88 +/- 0.14
+2019-03-25 10:23:57,247:INFO: Average reward: 9.69 +/- 0.13
+2019-03-25 10:23:57,666:INFO: Average reward: 9.43 +/- 0.09
+2019-03-25 10:23:58,084:INFO: Average reward: 9.59 +/- 0.09
+2019-03-25 10:23:58,505:INFO: Average reward: 9.47 +/- 0.09
+2019-03-25 10:23:58,931:INFO: Average reward: 9.40 +/- 0.08
+2019-03-25 10:23:59,357:INFO: Average reward: 9.37 +/- 0.08
+2019-03-25 10:23:59,758:INFO: Average reward: 9.38 +/- 0.08
+2019-03-25 10:24:00,181:INFO: Average reward: 9.43 +/- 0.08
+2019-03-25 10:24:00,609:INFO: Average reward: 9.47 +/- 0.06
+2019-03-25 10:24:01,039:INFO: Average reward: 9.48 +/- 0.09
+2019-03-25 10:24:01,471:INFO: Average reward: 9.31 +/- 0.08
+2019-03-25 10:24:01,905:INFO: Average reward: 9.22 +/- 0.07
+2019-03-25 10:24:02,337:INFO: Average reward: 9.29 +/- 0.08
+2019-03-25 10:24:02,775:INFO: Average reward: 9.40 +/- 0.06
+2019-03-25 10:24:03,221:INFO: Average reward: 9.37 +/- 0.07
+2019-03-25 10:24:03,646:INFO: Average reward: 9.46 +/- 0.07
+2019-03-25 10:24:04,068:INFO: Average reward: 9.40 +/- 0.07
+2019-03-25 10:24:04,481:INFO: Average reward: 9.40 +/- 0.07
+2019-03-25 10:24:04,893:INFO: Average reward: 9.42 +/- 0.08
+2019-03-25 10:24:05,308:INFO: Average reward: 9.45 +/- 0.07
+2019-03-25 10:24:05,722:INFO: Average reward: 9.37 +/- 0.07
+2019-03-25 10:24:06,126:INFO: Average reward: 9.34 +/- 0.07
+2019-03-25 10:24:06,526:INFO: Average reward: 9.33 +/- 0.08
+2019-03-25 10:24:06,939:INFO: Average reward: 9.50 +/- 0.08
+2019-03-25 10:24:07,348:INFO: Average reward: 9.42 +/- 0.07
+2019-03-25 10:24:07,749:INFO: Average reward: 9.40 +/- 0.07
+2019-03-25 10:24:08,171:INFO: Average reward: 9.41 +/- 0.08
+2019-03-25 10:24:08,590:INFO: Average reward: 9.40 +/- 0.08
+2019-03-25 10:24:08,998:INFO: Average reward: 9.34 +/- 0.06
+2019-03-25 10:24:09,415:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:24:09,839:INFO: Average reward: 9.26 +/- 0.06
+2019-03-25 10:24:10,273:INFO: Average reward: 9.42 +/- 0.08
+2019-03-25 10:24:10,690:INFO: Average reward: 9.46 +/- 0.07
+2019-03-25 10:24:11,095:INFO: Average reward: 9.26 +/- 0.07
+2019-03-25 10:24:11,518:INFO: Average reward: 9.38 +/- 0.07
+2019-03-25 10:24:11,950:INFO: Average reward: 9.49 +/- 0.08
+2019-03-25 10:24:12,387:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:24:12,839:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:24:13,244:INFO: Average reward: 9.36 +/- 0.08
+2019-03-25 10:24:13,663:INFO: Average reward: 9.31 +/- 0.08
+2019-03-25 10:24:14,076:INFO: Average reward: 9.40 +/- 0.07
+2019-03-25 10:24:14,489:INFO: Average reward: 9.45 +/- 0.07
+2019-03-25 10:24:14,893:INFO: Average reward: 9.28 +/- 0.07
+2019-03-25 10:24:15,307:INFO: Average reward: 9.37 +/- 0.07
+2019-03-25 10:24:15,754:INFO: Average reward: 9.30 +/- 0.08
+2019-03-25 10:24:16,188:INFO: Average reward: 9.26 +/- 0.08
+2019-03-25 10:24:16,629:INFO: Average reward: 9.49 +/- 0.08
+2019-03-25 10:24:17,054:INFO: Average reward: 9.36 +/- 0.08
+2019-03-25 10:24:17,464:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:24:17,879:INFO: Average reward: 9.55 +/- 0.07
+2019-03-25 10:24:18,307:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:24:18,753:INFO: Average reward: 9.46 +/- 0.07
+2019-03-25 10:24:19,186:INFO: Average reward: 9.40 +/- 0.08
+2019-03-25 10:24:19,618:INFO: Average reward: 9.36 +/- 0.07
+2019-03-25 10:24:20,036:INFO: Average reward: 9.47 +/- 0.07
+2019-03-25 10:28:10,485:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:28:10,486:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:28:10,487:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:28:10,488:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:28:10,618:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:28:10,635:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:28:11,723:INFO: Average reward: 24.00 +/- 0.00
+2019-03-25 10:28:12,252:INFO: Average reward: 22.27 +/- 1.49
+2019-03-25 10:28:12,677:INFO: Average reward: 16.42 +/- 0.77
+2019-03-25 10:28:13,101:INFO: Average reward: 13.43 +/- 0.51
+2019-03-25 10:28:13,521:INFO: Average reward: 12.40 +/- 0.41
+2019-03-25 10:28:13,947:INFO: Average reward: 11.87 +/- 0.43
+2019-03-25 10:28:14,369:INFO: Average reward: 11.01 +/- 0.30
+2019-03-25 10:28:14,776:INFO: Average reward: 10.30 +/- 0.18
+2019-03-25 10:28:15,188:INFO: Average reward: 10.28 +/- 0.19
+2019-03-25 10:28:15,610:INFO: Average reward: 9.94 +/- 0.14
+2019-03-25 10:28:16,036:INFO: Average reward: 9.84 +/- 0.16
+2019-03-25 10:28:16,464:INFO: Average reward: 9.58 +/- 0.10
+2019-03-25 10:28:16,882:INFO: Average reward: 9.62 +/- 0.12
+2019-03-25 10:28:17,300:INFO: Average reward: 9.52 +/- 0.11
+2019-03-25 10:28:17,720:INFO: Average reward: 9.39 +/- 0.08
+2019-03-25 10:28:18,138:INFO: Average reward: 9.50 +/- 0.10
+2019-03-25 10:28:18,561:INFO: Average reward: 9.46 +/- 0.09
+2019-03-25 10:28:18,981:INFO: Average reward: 9.48 +/- 0.08
+2019-03-25 10:28:19,441:INFO: Average reward: 9.42 +/- 0.08
+2019-03-25 10:28:19,915:INFO: Average reward: 9.34 +/- 0.08
+2019-03-25 10:28:20,336:INFO: Average reward: 9.34 +/- 0.07
+2019-03-25 10:28:20,764:INFO: Average reward: 9.42 +/- 0.09
+2019-03-25 10:28:21,182:INFO: Average reward: 9.46 +/- 0.08
+2019-03-25 10:28:21,609:INFO: Average reward: 9.42 +/- 0.07
+2019-03-25 10:28:22,041:INFO: Average reward: 9.38 +/- 0.08
+2019-03-25 10:28:22,469:INFO: Average reward: 9.28 +/- 0.07
+2019-03-25 10:28:22,878:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:28:23,295:INFO: Average reward: 9.38 +/- 0.08
+2019-03-25 10:28:23,727:INFO: Average reward: 9.42 +/- 0.08
+2019-03-25 10:28:24,133:INFO: Average reward: 9.28 +/- 0.07
+2019-03-25 10:28:24,552:INFO: Average reward: 9.28 +/- 0.07
+2019-03-25 10:28:24,958:INFO: Average reward: 9.36 +/- 0.08
+2019-03-25 10:28:25,402:INFO: Average reward: 9.19 +/- 0.08
+2019-03-25 10:28:25,820:INFO: Average reward: 9.39 +/- 0.08
+2019-03-25 10:28:26,238:INFO: Average reward: 9.34 +/- 0.08
+2019-03-25 10:28:26,671:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:28:27,100:INFO: Average reward: 9.41 +/- 0.08
+2019-03-25 10:28:27,522:INFO: Average reward: 9.42 +/- 0.08
+2019-03-25 10:28:27,928:INFO: Average reward: 9.41 +/- 0.07
+2019-03-25 10:28:28,342:INFO: Average reward: 9.41 +/- 0.08
+2019-03-25 10:28:28,758:INFO: Average reward: 9.31 +/- 0.07
+2019-03-25 10:28:29,184:INFO: Average reward: 9.23 +/- 0.07
+2019-03-25 10:28:29,601:INFO: Average reward: 9.22 +/- 0.07
+2019-03-25 10:28:29,997:INFO: Average reward: 9.34 +/- 0.08
+2019-03-25 10:28:30,417:INFO: Average reward: 9.21 +/- 0.08
+2019-03-25 10:28:30,833:INFO: Average reward: 9.36 +/- 0.07
+2019-03-25 10:28:31,264:INFO: Average reward: 9.37 +/- 0.07
+2019-03-25 10:28:31,715:INFO: Average reward: 9.22 +/- 0.08
+2019-03-25 10:28:32,148:INFO: Average reward: 9.33 +/- 0.07
+2019-03-25 10:28:32,578:INFO: Average reward: 9.41 +/- 0.08
+2019-03-25 10:28:32,992:INFO: Average reward: 9.22 +/- 0.08
+2019-03-25 10:28:33,417:INFO: Average reward: 9.30 +/- 0.08
+2019-03-25 10:28:33,829:INFO: Average reward: 9.16 +/- 0.07
+2019-03-25 10:28:34,263:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:28:34,677:INFO: Average reward: 9.33 +/- 0.08
+2019-03-25 10:28:35,082:INFO: Average reward: 9.39 +/- 0.07
+2019-03-25 10:28:35,509:INFO: Average reward: 9.21 +/- 0.08
+2019-03-25 10:28:35,950:INFO: Average reward: 9.23 +/- 0.07
+2019-03-25 10:28:36,366:INFO: Average reward: 9.27 +/- 0.08
+2019-03-25 10:28:36,801:INFO: Average reward: 9.20 +/- 0.07
+2019-03-25 10:28:37,218:INFO: Average reward: 9.21 +/- 0.07
+2019-03-25 10:28:37,644:INFO: Average reward: 9.24 +/- 0.07
+2019-03-25 10:28:38,093:INFO: Average reward: 9.19 +/- 0.07
+2019-03-25 10:28:38,542:INFO: Average reward: 9.25 +/- 0.07
+2019-03-25 10:28:39,032:INFO: Average reward: 9.17 +/- 0.07
+2019-03-25 10:28:39,489:INFO: Average reward: 9.17 +/- 0.07
+2019-03-25 10:28:39,905:INFO: Average reward: 9.20 +/- 0.07
+2019-03-25 10:28:40,322:INFO: Average reward: 9.23 +/- 0.07
+2019-03-25 10:28:40,754:INFO: Average reward: 9.14 +/- 0.07
+2019-03-25 10:28:41,163:INFO: Average reward: 9.33 +/- 0.08
+2019-03-25 10:28:41,607:INFO: Average reward: 9.19 +/- 0.07
+2019-03-25 10:28:42,019:INFO: Average reward: 9.14 +/- 0.07
+2019-03-25 10:28:42,488:INFO: Average reward: 9.15 +/- 0.07
+2019-03-25 10:28:42,950:INFO: Average reward: 9.19 +/- 0.07
+2019-03-25 10:28:43,431:INFO: Average reward: 9.21 +/- 0.07
+2019-03-25 10:28:43,915:INFO: Average reward: 9.15 +/- 0.08
+2019-03-25 10:28:44,340:INFO: Average reward: 9.37 +/- 0.07
+2019-03-25 10:28:44,799:INFO: Average reward: 9.35 +/- 0.07
+2019-03-25 10:28:45,226:INFO: Average reward: 9.09 +/- 0.07
+2019-03-25 10:28:45,642:INFO: Average reward: 9.22 +/- 0.07
+2019-03-25 10:28:46,115:INFO: Average reward: 9.19 +/- 0.07
+2019-03-25 10:28:46,540:INFO: Average reward: 9.24 +/- 0.07
+2019-03-25 10:28:47,009:INFO: Average reward: 9.19 +/- 0.07
+2019-03-25 10:28:47,429:INFO: Average reward: 9.17 +/- 0.07
+2019-03-25 10:28:47,844:INFO: Average reward: 9.07 +/- 0.07
+2019-03-25 10:28:48,273:INFO: Average reward: 9.17 +/- 0.07
+2019-03-25 10:28:48,693:INFO: Average reward: 9.05 +/- 0.07
+2019-03-25 10:28:49,109:INFO: Average reward: 9.09 +/- 0.07
+2019-03-25 10:28:49,596:INFO: Average reward: 9.25 +/- 0.08
+2019-03-25 10:28:50,049:INFO: Average reward: 9.10 +/- 0.07
+2019-03-25 10:28:50,470:INFO: Average reward: 9.15 +/- 0.07
+2019-03-25 10:28:50,880:INFO: Average reward: 9.12 +/- 0.07
+2019-03-25 10:28:51,310:INFO: Average reward: 9.08 +/- 0.07
+2019-03-25 10:28:51,733:INFO: Average reward: 9.26 +/- 0.07
+2019-03-25 10:28:52,155:INFO: Average reward: 9.14 +/- 0.08
+2019-03-25 10:28:52,568:INFO: Average reward: 9.06 +/- 0.08
+2019-03-25 10:28:52,985:INFO: Average reward: 9.14 +/- 0.07
+2019-03-25 10:28:53,415:INFO: Average reward: 9.21 +/- 0.06
+2019-03-25 10:28:53,829:INFO: Average reward: 9.24 +/- 0.07
+2019-03-25 10:28:54,243:INFO: Average reward: 9.19 +/- 0.07
+2019-03-25 10:28:54,659:INFO: Average reward: 9.31 +/- 0.07
+2019-03-25 10:28:54,660:INFO: - Training done.
+2019-03-25 10:28:54,676:DEBUG: update_title_pos
+2019-03-25 10:28:54,686:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/yash/venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-03-25 10:28:54,733:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/yash/venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-03-25 10:28:54,783:DEBUG: update_title_pos
+2019-03-25 10:28:55,105:INFO: Average reward: 10.00 +/- 0.00
+2019-03-25 10:37:49,687:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:37:49,688:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:37:49,689:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:37:49,689:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:37:49,819:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:37:49,836:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:37:50,709:INFO: Average reward: 11.00 +/- 0.00
+2019-03-25 10:37:51,248:INFO: Average reward: 33.79 +/- 3.97
+2019-03-25 10:37:51,690:INFO: Average reward: 57.35 +/- 10.35
+2019-03-25 10:37:52,116:INFO: Average reward: 41.83 +/- 5.28
+2019-03-25 10:37:52,552:INFO: Average reward: 44.41 +/- 5.18
+2019-03-25 10:37:52,992:INFO: Average reward: 51.50 +/- 5.99
+2019-03-25 10:37:53,431:INFO: Average reward: 76.46 +/- 9.89
+2019-03-25 10:37:53,877:INFO: Average reward: 74.77 +/- 9.82
+2019-03-25 10:37:54,318:INFO: Average reward: 92.60 +/- 14.86
+2019-03-25 10:37:54,755:INFO: Average reward: 117.88 +/- 12.88
+2019-03-25 10:37:55,202:INFO: Average reward: 80.75 +/- 13.61
+2019-03-25 10:37:55,636:INFO: Average reward: 81.64 +/- 12.04
+2019-03-25 10:37:56,064:INFO: Average reward: 88.27 +/- 11.49
+2019-03-25 10:37:56,508:INFO: Average reward: 103.00 +/- 13.02
+2019-03-25 10:37:56,944:INFO: Average reward: 134.86 +/- 19.56
+2019-03-25 10:37:57,410:INFO: Average reward: 160.83 +/- 14.33
+2019-03-25 10:37:57,877:INFO: Average reward: 180.00 +/- 14.84
+2019-03-25 10:37:58,332:INFO: Average reward: 183.60 +/- 14.45
+2019-03-25 10:37:58,778:INFO: Average reward: 168.80 +/- 22.27
+2019-03-25 10:37:59,244:INFO: Average reward: 192.40 +/- 6.80
+2019-03-25 10:37:59,687:INFO: Average reward: 196.20 +/- 3.40
+2019-03-25 10:38:00,136:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:00,594:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:01,054:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:01,506:INFO: Average reward: 187.80 +/- 9.83
+2019-03-25 10:38:01,955:INFO: Average reward: 181.00 +/- 10.13
+2019-03-25 10:38:02,409:INFO: Average reward: 171.60 +/- 13.70
+2019-03-25 10:38:02,846:INFO: Average reward: 159.17 +/- 15.41
+2019-03-25 10:38:03,291:INFO: Average reward: 164.80 +/- 9.12
+2019-03-25 10:38:03,730:INFO: Average reward: 188.20 +/- 6.90
+2019-03-25 10:38:04,167:INFO: Average reward: 159.17 +/- 7.84
+2019-03-25 10:38:04,611:INFO: Average reward: 175.60 +/- 10.64
+2019-03-25 10:38:05,061:INFO: Average reward: 193.00 +/- 3.25
+2019-03-25 10:38:05,513:INFO: Average reward: 180.80 +/- 8.33
+2019-03-25 10:38:05,947:INFO: Average reward: 178.60 +/- 6.99
+2019-03-25 10:38:06,398:INFO: Average reward: 189.80 +/- 9.12
+2019-03-25 10:38:06,842:INFO: Average reward: 177.00 +/- 8.43
+2019-03-25 10:38:07,291:INFO: Average reward: 196.40 +/- 3.22
+2019-03-25 10:38:07,740:INFO: Average reward: 179.60 +/- 10.66
+2019-03-25 10:38:08,191:INFO: Average reward: 179.80 +/- 8.68
+2019-03-25 10:38:08,635:INFO: Average reward: 176.00 +/- 11.27
+2019-03-25 10:38:09,073:INFO: Average reward: 185.60 +/- 7.07
+2019-03-25 10:38:09,519:INFO: Average reward: 195.60 +/- 3.94
+2019-03-25 10:38:09,972:INFO: Average reward: 175.00 +/- 6.71
+2019-03-25 10:38:10,416:INFO: Average reward: 187.20 +/- 8.51
+2019-03-25 10:38:10,872:INFO: Average reward: 179.40 +/- 8.09
+2019-03-25 10:38:11,326:INFO: Average reward: 185.20 +/- 8.34
+2019-03-25 10:38:11,778:INFO: Average reward: 165.60 +/- 10.73
+2019-03-25 10:38:12,227:INFO: Average reward: 181.80 +/- 10.64
+2019-03-25 10:38:12,664:INFO: Average reward: 174.20 +/- 13.35
+2019-03-25 10:38:13,118:INFO: Average reward: 183.00 +/- 10.17
+2019-03-25 10:38:13,572:INFO: Average reward: 180.80 +/- 10.76
+2019-03-25 10:38:14,018:INFO: Average reward: 178.60 +/- 11.73
+2019-03-25 10:38:14,471:INFO: Average reward: 161.33 +/- 11.82
+2019-03-25 10:38:14,913:INFO: Average reward: 182.40 +/- 6.61
+2019-03-25 10:38:15,358:INFO: Average reward: 135.83 +/- 14.93
+2019-03-25 10:38:15,821:INFO: Average reward: 145.33 +/- 16.03
+2019-03-25 10:38:16,276:INFO: Average reward: 135.00 +/- 6.43
+2019-03-25 10:38:16,736:INFO: Average reward: 180.40 +/- 7.87
+2019-03-25 10:38:17,175:INFO: Average reward: 152.50 +/- 12.54
+2019-03-25 10:38:17,618:INFO: Average reward: 163.50 +/- 9.17
+2019-03-25 10:38:18,049:INFO: Average reward: 172.00 +/- 11.54
+2019-03-25 10:38:18,494:INFO: Average reward: 170.20 +/- 10.25
+2019-03-25 10:38:18,937:INFO: Average reward: 172.80 +/- 6.69
+2019-03-25 10:38:19,391:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:19,842:INFO: Average reward: 191.20 +/- 6.13
+2019-03-25 10:38:20,303:INFO: Average reward: 190.40 +/- 8.59
+2019-03-25 10:38:20,748:INFO: Average reward: 191.80 +/- 7.33
+2019-03-25 10:38:21,207:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:21,669:INFO: Average reward: 194.60 +/- 4.83
+2019-03-25 10:38:22,115:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:22,566:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:23,021:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:23,486:INFO: Average reward: 199.00 +/- 0.89
+2019-03-25 10:38:23,975:INFO: Average reward: 198.00 +/- 1.79
+2019-03-25 10:38:24,458:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:24,928:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:25,411:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:25,917:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:26,527:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:27,036:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:27,521:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:28,034:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:28,632:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:29,160:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:29,738:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:30,284:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:30,850:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:31,458:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:32,050:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:32,578:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:33,050:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:33,624:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:34,295:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:34,844:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:35,346:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:35,980:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:36,596:INFO: Average reward: 199.00 +/- 0.89
+2019-03-25 10:38:37,151:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:37,774:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:38,390:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:38:38,390:INFO: - Training done.
+2019-03-25 10:38:38,408:DEBUG: update_title_pos
+2019-03-25 10:38:38,420:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/yash/venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-03-25 10:38:38,463:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/yash/venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-03-25 10:38:38,517:DEBUG: update_title_pos
+2019-03-25 10:38:42,041:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:19,123:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-03-25 10:45:19,124:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-03-25 10:45:19,125:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-03-25 10:45:19,126:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-03-25 10:45:19,261:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+2019-03-25 10:45:19,279:INFO: Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+2019-03-25 10:45:20,265:INFO: Average reward: 17.00 +/- 0.00
+2019-03-25 10:45:20,801:INFO: Average reward: 25.33 +/- 2.41
+2019-03-25 10:45:21,212:INFO: Average reward: 30.68 +/- 2.92
+2019-03-25 10:45:21,640:INFO: Average reward: 40.33 +/- 3.75
+2019-03-25 10:45:22,130:INFO: Average reward: 42.09 +/- 5.81
+2019-03-25 10:45:22,624:INFO: Average reward: 46.67 +/- 5.25
+2019-03-25 10:45:23,062:INFO: Average reward: 56.18 +/- 5.02
+2019-03-25 10:45:23,613:INFO: Average reward: 52.72 +/- 5.39
+2019-03-25 10:45:24,107:INFO: Average reward: 58.06 +/- 4.34
+2019-03-25 10:45:24,537:INFO: Average reward: 65.33 +/- 6.40
+2019-03-25 10:45:24,984:INFO: Average reward: 68.43 +/- 4.35
+2019-03-25 10:45:25,431:INFO: Average reward: 80.83 +/- 5.63
+2019-03-25 10:45:25,865:INFO: Average reward: 72.46 +/- 6.54
+2019-03-25 10:45:26,302:INFO: Average reward: 80.00 +/- 12.72
+2019-03-25 10:45:26,713:INFO: Average reward: 76.46 +/- 6.30
+2019-03-25 10:45:27,158:INFO: Average reward: 99.40 +/- 11.27
+2019-03-25 10:45:27,626:INFO: Average reward: 109.56 +/- 12.23
+2019-03-25 10:45:28,067:INFO: Average reward: 147.67 +/- 13.20
+2019-03-25 10:45:28,511:INFO: Average reward: 136.71 +/- 9.42
+2019-03-25 10:45:28,950:INFO: Average reward: 139.71 +/- 17.15
+2019-03-25 10:45:29,383:INFO: Average reward: 160.80 +/- 16.99
+2019-03-25 10:45:29,833:INFO: Average reward: 186.00 +/- 12.52
+2019-03-25 10:45:30,264:INFO: Average reward: 186.00 +/- 7.03
+2019-03-25 10:45:30,719:INFO: Average reward: 185.60 +/- 12.22
+2019-03-25 10:45:31,221:INFO: Average reward: 155.50 +/- 20.08
+2019-03-25 10:45:31,716:INFO: Average reward: 162.40 +/- 9.15
+2019-03-25 10:45:32,174:INFO: Average reward: 182.00 +/- 9.54
+2019-03-25 10:45:32,631:INFO: Average reward: 138.43 +/- 16.16
+2019-03-25 10:45:33,091:INFO: Average reward: 142.29 +/- 18.80
+2019-03-25 10:45:33,535:INFO: Average reward: 166.40 +/- 17.51
+2019-03-25 10:45:33,973:INFO: Average reward: 171.80 +/- 16.60
+2019-03-25 10:45:34,403:INFO: Average reward: 156.33 +/- 13.13
+2019-03-25 10:45:34,859:INFO: Average reward: 189.60 +/- 9.30
+2019-03-25 10:45:35,306:INFO: Average reward: 164.00 +/- 21.04
+2019-03-25 10:45:35,738:INFO: Average reward: 191.00 +/- 8.05
+2019-03-25 10:45:36,174:INFO: Average reward: 171.60 +/- 15.81
+2019-03-25 10:45:36,614:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:37,053:INFO: Average reward: 184.20 +/- 12.22
+2019-03-25 10:45:37,483:INFO: Average reward: 186.20 +/- 12.34
+2019-03-25 10:45:37,925:INFO: Average reward: 185.60 +/- 12.88
+2019-03-25 10:45:38,357:INFO: Average reward: 191.40 +/- 7.69
+2019-03-25 10:45:38,786:INFO: Average reward: 188.80 +/- 10.02
+2019-03-25 10:45:39,224:INFO: Average reward: 176.80 +/- 11.78
+2019-03-25 10:45:39,666:INFO: Average reward: 173.20 +/- 10.87
+2019-03-25 10:45:40,123:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:40,557:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:41,000:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:41,437:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:41,885:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:42,343:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:42,782:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:43,268:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:43,701:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:44,140:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:44,577:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:45,040:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:45,582:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:46,069:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:46,526:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:46,981:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:47,418:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:47,862:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:48,293:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:48,723:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:49,170:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:49,603:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:50,064:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:50,513:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:50,947:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:51,412:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:51,864:INFO: Average reward: 177.40 +/- 20.21
+2019-03-25 10:45:52,304:INFO: Average reward: 163.17 +/- 27.58
+2019-03-25 10:45:52,743:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:53,189:INFO: Average reward: 179.20 +/- 18.60
+2019-03-25 10:45:53,625:INFO: Average reward: 189.60 +/- 9.30
+2019-03-25 10:45:54,076:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:54,503:INFO: Average reward: 193.20 +/- 6.08
+2019-03-25 10:45:54,937:INFO: Average reward: 153.50 +/- 21.56
+2019-03-25 10:45:55,372:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:55,806:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:56,243:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:56,687:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:57,181:INFO: Average reward: 168.40 +/- 22.17
+2019-03-25 10:45:57,618:INFO: Average reward: 186.00 +/- 12.52
+2019-03-25 10:45:58,065:INFO: Average reward: 143.00 +/- 25.47
+2019-03-25 10:45:58,484:INFO: Average reward: 135.14 +/- 22.30
+2019-03-25 10:45:58,934:INFO: Average reward: 150.67 +/- 28.53
+2019-03-25 10:45:59,381:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:45:59,825:INFO: Average reward: 154.00 +/- 21.73
+2019-03-25 10:46:00,261:INFO: Average reward: 177.40 +/- 12.95
+2019-03-25 10:46:00,693:INFO: Average reward: 191.20 +/- 7.87
+2019-03-25 10:46:01,133:INFO: Average reward: 177.80 +/- 19.86
+2019-03-25 10:46:01,574:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:46:02,008:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:46:02,449:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:46:02,897:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:46:03,338:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:46:03,781:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:46:04,224:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:46:04,671:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:46:05,105:INFO: Average reward: 200.00 +/- 0.00
+2019-03-25 10:46:05,105:INFO: - Training done.
+2019-03-25 10:46:05,120:DEBUG: update_title_pos
+2019-03-25 10:46:05,131:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/yash/venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-03-25 10:46:05,172:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/yash/venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-03-25 10:46:05,226:DEBUG: update_title_pos
+2019-03-25 10:46:08,714:INFO: Average reward: 200.00 +/- 0.00
